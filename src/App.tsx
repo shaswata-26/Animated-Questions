@@ -48,7 +48,6 @@ function App() {
     setShowResults(false);
   };
 
-  const allQuestionsAnswered = answers.length === questions.length;
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-8 px-4">
