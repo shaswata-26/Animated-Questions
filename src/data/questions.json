@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": "q1",
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": 2,
+    "explanation": "Paris is the capital and most populous city of France.",
+    "points": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "q2",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": 1,
+    "explanation": "Mars is often called the Red Planet due to its reddish appearance.",
+    "points": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "q3",
+    "question": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswer": 1,
+    "explanation": "The Blue Whale is the largest mammal, reaching up to 100 feet in length and 200 tons in weight.",
+    "points": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "q4",
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa between 1503 and 1506.",
+    "points": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "q5",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correctAnswer": 2,
+    "explanation": "The chemical symbol for gold is Au, derived from the Latin word 'aurum' meaning gold.",
+    "points": 4,
+    "difficulty": "Hard"
+  }
+]
